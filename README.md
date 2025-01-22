@@ -1,7 +1,13 @@
-👋 Hi, I’m @Zeksilva
-👀 I’m interested in networking e business
-🌱 I’m currently learning Java,Java Scrip, HTML, Git, GitHub, Phython,
-💞️ I’m looking to collaborate on supporting programming beginners and exchange experiences.
-📫 How to reach me (021)99185-1733 e e-mail ezeqquias@gmail.com
-😄 Pronouns: Ele/Dele
-⚡ Fun fact: I'm a saxophonist, a theologian, I speak sign language and I'm passionate about reading.
+<h1>Jogo do número secreto</h1>
+
+<h2>�� Sobre</h2>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+
+## �� Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+// Código omitido. 
